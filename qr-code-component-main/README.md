@@ -18,7 +18,8 @@ This is my first project of Frontend mentor. This is a card component that has a
 ### Links
 
 - [Go to solution](https://github.com/sajid-munawar/FrontendMentor_projects/tree/main/qr-code-component-main)
-- [live site URL ](qr_code.surge.sh)
+
+- [live site URL](https://qr_code.surge.sh/)
 
 ### Built with
 
